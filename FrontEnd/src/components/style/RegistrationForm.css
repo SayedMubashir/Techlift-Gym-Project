@@ -1,0 +1,22 @@
+.reg-form{
+    background-image: url('../../assets/images/22.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(0,0,0,0.2);
+    z-index: 3;
+}
+#hr{
+    background-color: #ffff;
+    z-index: 2;
+}
+.inputs{
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: larger;
+    font-style: italic;
+    z-index: 1;
+}
+.btn{
+    border-radius: 50px;
+    z-index: 0;
+}
